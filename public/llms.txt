@@ -1,0 +1,22 @@
+# Contábil Couto
+
+> Escritório de contabilidade e assessoria no Centro de Bragança Paulista (SP). Atende MEI, Simples Nacional, Lucro Presumido e Lucro Real.
+
+## Serviços
+- Abertura e encerramento de empresas
+- Departamento pessoal (folha, eSocial, FGTS Digital)
+- Escrita fiscal (incluindo IBS/CBS da Reforma Tributária e NFS-e)
+- Contabilidade (balancete, DRE, balanço)
+- Imposto de renda pessoa física
+- ITR
+
+## Contato
+- Endereço: R. Cel. João Leme, 559 – Centro, Bragança Paulista – SP, 12900-161
+- Horário: segunda a sexta, 8h às 18h
+- Telefones: (11) 4032-8745 · (11) 2473-6852
+- WhatsApp: (11) 91952-4301
+- E-mail: contabilcouto@hotmail.com
+- Instagram: https://www.instagram.com/contabil_couto/
+
+## Páginas
+- [Início](https://contabil-couto.vercel.app/)
